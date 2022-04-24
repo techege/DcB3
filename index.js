@@ -30,4 +30,4 @@ client.on("message", async message=>{
 
 })
 
-client.login("OTY0NTc5NTM0MDcyNTkwMzQ3.YlmssQ.O4YrJ6sDC1Y2UPIcog62mOGS4nY")
+client.login("token")
